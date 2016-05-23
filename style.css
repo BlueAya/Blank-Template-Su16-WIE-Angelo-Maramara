@@ -1,0 +1,71 @@
+<<<<<<< Updated upstream
+||||||| merged common ancestors
+/*
+Theme Name: Angelo Blank Theme
+Theme URI:
+Author: Angelo Maramara
+Description: Blank theme for WIE course
+Version: 0.1
+License: Open
+Text Domain: angelo_maramara_blank_template
+*/
+
+@import url("styles/normalize.css");
+@import url("styles/skeleton.css");
+
+*{
+    color: #000000;
+    font-size: 14px;
+    line-height: 1.5em;
+}
+=======
+/*
+Theme Name: Angelo Blank Theme
+Theme URI:
+Author: Angelo Maramara
+Description: Blank theme for WIE course
+Version: 0.1
+License: Open
+Text Domain: angelo_maramara_blank_template
+*/
+
+@import url("styles/normalize.css");
+@import url("styles/skeleton.css");
+
+html, body {
+    color: #000000;
+    font-size: 14px;
+    line-height: 1.5em;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #999999;
+  font-weight: 700;
+}
+
+h1 {
+  font-size: 3.0rem;
+}
+
+h2 {
+  font-size: 2.5rem;
+}
+
+h3 {
+  font-size: 2.0rem;
+}
+
+h4 {
+  font-size: 1.5rem;
+}
+
+h5 {
+  font-size: 1.2rem;
+}
+
+a {
+  color: red;
+  font-weight: 700;
+  text-decoration: none;
+}
+>>>>>>> Stashed changes
