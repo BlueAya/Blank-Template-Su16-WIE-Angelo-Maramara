@@ -1,24 +1,6 @@
 <<<<<<< Updated upstream
 ||||||| merged common ancestors
-/*
-Theme Name: Angelo Blank Theme
-Theme URI:
-Author: Angelo Maramara
-Description: Blank theme for WIE course
-Version: 0.1
-License: Open
-Text Domain: angelo_maramara_blank_template
-*/
 
-@import url("styles/normalize.css");
-@import url("styles/skeleton.css");
-
-*{
-    color: #000000;
-    font-size: 14px;
-    line-height: 1.5em;
-}
-=======
 /*
 Theme Name: Angelo Blank Theme
 Theme URI:
